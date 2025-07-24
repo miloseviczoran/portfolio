@@ -66,7 +66,7 @@ const Navbar = () => {
             <img src="/img/logo.png" alt="logo" className="w-10" />
             <Button
               id="product-button"
-              title="Products"
+              title="Zoran Milosevic"
               rightIcon={<TiLocationArrow />}
               containerClass="bg-blue-50 md:flex hidden 
               items-center justify-center gap-1"
