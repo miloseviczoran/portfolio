@@ -46,7 +46,7 @@ const Contact = () => {
             <b>o</b>gether
           </p>
           <Button
-            title="contact us"
+            title="Zoran Milosevic"
             containerClass="mt-10 cursor-pointer bg-white"
           />
         </div>

@@ -83,7 +83,7 @@ const Story = () => {
             </p>
             <Button
               id="realm-button"
-              title="discover prologue"
+              title="Zoran Milosevic"
               containerClass="mt-5 bg-white"
             />
           </div>

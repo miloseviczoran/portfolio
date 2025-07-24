@@ -1,11 +1,18 @@
 import React from "react";
-import { FaDiscord, FaGithub, FaTwitch, FaTwitter } from "react-icons/fa";
+import { FaDiscord, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 const links = [
-  { href: "https://discord.com", icon: <FaDiscord /> },
-  { href: "https://twitter.com", icon: <FaTwitter /> },
+  { href: "https://ba.linkedin.com/in/zoranmilosevic", icon: <FaLinkedin /> },
+
+  {
+    href: "https://portfolio-zoranmilosevic-b2d59.web.app/",
+    icon: <FaDiscord />,
+  },
+  {
+    href: "https://food-project-miloseviczoran-withdb.vercel.app/",
+    icon: <FaTwitter />,
+  },
   { href: "https://github.com", icon: <FaGithub /> },
-  { href: "https://twitch.com", icon: <FaTwitch /> },
 ];
 
 const Footer = () => {

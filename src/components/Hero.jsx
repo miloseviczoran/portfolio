@@ -151,7 +151,7 @@ const Hero = () => {
             </p>
             <Button
               id="watch-trailer"
-              title="Watch Trailer"
+              title="Zoran Milosevic"
               leftIcon={<TiLocationArrow />}
               containerClass="!bg-yellow-300 flex-center gap-1"
             />
